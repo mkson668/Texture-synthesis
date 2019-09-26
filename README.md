@@ -1,16 +1,22 @@
 # Texture-synthesis
 A non-parametric texture synthesis implementation based on Efros and Leung's approach. More details can be found at https://people.eecs.berkeley.edu/~efros/research/EfrosLeung.html
 
-## Examples
+## Example
 
-![Template](/images/donkey.png)
-Format: ![Alt Text](url)
+Suppose we have the following image: 
+<br/>
+<br/>
+![Example](https://github.com/mkson668/Texture-synthesis/blob/master/images/donkey.jpg)
 
-![SelectFill](/images/donkey2.png)
-Format: ![Alt Text](url)
+Select location to fill along with the texture to use for the fill:
+<br/>
+<br/>
+![SelectFill](https://github.com/mkson668/Texture-synthesis/blob/master/images/donkey2.jpg)
 
-![Result](/images/result.png)
-Format: ![Alt Text](url)
+Filled image:
+<br/>
+<br/>
+![Result](https://github.com/mkson668/Texture-synthesis/blob/master/images/results.jpg)
 
 ## Running the program 
 
