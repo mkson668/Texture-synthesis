@@ -1,6 +1,17 @@
 # Texture-synthesis
 A non-parametric texture synthesis implementation based on Efros and Leung's approach. More details can be found at https://people.eecs.berkeley.edu/~efros/research/EfrosLeung.html
 
+## Examples
+
+![Template](/images/donkey.png)
+Format: ![Alt Text](url)
+
+![SelectFill](/images/donkey2.png)
+Format: ![Alt Text](url)
+
+![Result](/images/result.png)
+Format: ![Alt Text](url)
+
 ## Running the program 
 
 Get an image of your choice and change the variable name "imname" at line 90 to it, then run 
